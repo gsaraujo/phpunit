@@ -7,4 +7,4 @@ Copyright (c) 1997-2018 The PHP Group
 Zend Engine v3.2.0, Copyright (c) 1998-2018 Zend Technologies
 
 ## PHPUnit version (phpunit --version)
-PHPUnit 3.7.21 by Sebastian Bergmann.
+PHPUnit 8.5.8 by Sebastian Bergmann and contributors.
