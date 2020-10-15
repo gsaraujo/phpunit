@@ -3,7 +3,7 @@
 namespace CodeTests\Arithmetic;
 
 /**
- * Some random tests with phpunit
+ * Some random tests with phpunit - Sum class to add numbers
  * @author     Gustavo <https://github.com/gsaraujo>
  * @license    MIT License
  * @copyright  2020 Gustavo
