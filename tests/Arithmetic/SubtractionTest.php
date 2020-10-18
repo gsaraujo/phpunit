@@ -14,6 +14,6 @@ class SubtractionTest extends TestCase
 {
 	public function assertPreConditions()
 	{		
-		return class_exists('CodeTests\Arithmetic\Subtraction');
+		$this->assertTrue(class_exists('CodeTests\Arithmetic\Subtraction'));
 	}	
 }
