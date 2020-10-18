@@ -1889,7 +1889,7 @@ abstract class TestCase extends Assert implements SelfDescribing, Test
      *
      * This method is called between setUp() and test.
      */
-    protected function assertPreConditions(): void
+    protected function assertPreConditions()
     {
     }
 
